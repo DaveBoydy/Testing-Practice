@@ -1,0 +1,28 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Unit test practice with jest test suite.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveBoydy/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveBoydy/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/DaveBoydy/Testing-Practice#readme",
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.0",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.6",
+    "typescript": "^5.7.3"
+  }
+}
